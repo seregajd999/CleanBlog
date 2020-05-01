@@ -5,3 +5,9 @@
 <br>
 
 ![preview](https://github.com/seregajd999/CleanBlog/blob/master/scrin.png)
+
+## Установка
+
+1. Разместить папку "CleanBlog" по адресу: site.com\modules\
+2. В настройках CMS выбрать данную тему
+3. Пользоваться
